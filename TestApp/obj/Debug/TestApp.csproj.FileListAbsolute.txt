@@ -1,0 +1,6 @@
+C:\Users\ppalank\OneDrive - Lowe's Companies Inc\Documents\GitHub\MyFirstTestRepository\TestApp\bin\Debug\TestApp.exe.config
+C:\Users\ppalank\OneDrive - Lowe's Companies Inc\Documents\GitHub\MyFirstTestRepository\TestApp\bin\Debug\TestApp.exe
+C:\Users\ppalank\OneDrive - Lowe's Companies Inc\Documents\GitHub\MyFirstTestRepository\TestApp\bin\Debug\TestApp.pdb
+C:\Users\ppalank\OneDrive - Lowe's Companies Inc\Documents\GitHub\MyFirstTestRepository\TestApp\obj\Debug\TestApp.csprojResolveAssemblyReference.cache
+C:\Users\ppalank\OneDrive - Lowe's Companies Inc\Documents\GitHub\MyFirstTestRepository\TestApp\obj\Debug\TestApp.exe
+C:\Users\ppalank\OneDrive - Lowe's Companies Inc\Documents\GitHub\MyFirstTestRepository\TestApp\obj\Debug\TestApp.pdb
