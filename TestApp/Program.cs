@@ -11,6 +11,7 @@ namespace TestApp
         static void Main(string[] args)
         {
             Console.WriteLine("My First Test App");
+            Console.WriteLine(DateTime.Now.ToString());
             Console.ReadLine();
         }
     }
